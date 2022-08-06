@@ -1,1 +1,1 @@
-const init = "init";
+const init = "inits";
